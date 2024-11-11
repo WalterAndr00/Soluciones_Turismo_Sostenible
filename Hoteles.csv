@@ -1,0 +1,445 @@
+OBJECTID *,Nombre *,Tipo *,Dirección,Ciudad *,Shape *,latitud,longitud
+2899,Amoblados Medellin,Hostel,"Carrera 72 9 1-99, Diego Echavarria, Belen, Medell",Medellín,Point Z,6.2170036,-75.5954829
+2900,Portal del Rodeo,Hotel,"La Mota, Belen, Medellín, Antioquia",Medellín,Point Z,6.211199499999999,-75.5982571
+2901,Unidad Residencial Portofino,Hostel,"Calle 14 72, Las Playas, Belen, Medellín, Antioqui",Medellín,Point Z,6.2206781,-75.59533549999999
+2902,El Oasis,Hotel,"Calle 14 75 1-99, Las Playas, Belen, Medellín, Ant",Medellín,Point Z,6.220151599999999,-75.59534699999999
+2903,Habitaestudios Tamaiti,Hotel,"Carrera 85C 34, Santa Teresita, La America, Medell",Medellín,Point Z,6.242923299999999,-75.6101967
+2904,Hotel Malive,Hotel,"Calle 28 84 1-99, Los Alpes, Belen, Medellín, Anti",Medellín,Point Z,6.2308388,-75.60844209999999
+2905,Yellow House Hostel,Hostel,"Carrera 81A 28 1-99, La Palma, Belen, Medellín, An",Medellín,Point Z,6.2293591,-75.6031233
+2906,Lemon Hostel,Hostel,"Calle 32 con Carrera 79A, Miravalle, Belen, Medell",Medellín,Point Z,6.233560499999999,-75.60034759999999
+2907,Belen Plaza,Hotel,"Avenida Universidad de Medellin 1-99, Belén, Belen",Medellín,Point Z,6.231151,-75.60460840000002
+2908,Energy Living,Hotel,"Transversal 39 Circular 74, Laureles, Laureles-Est",Medellín,Point Z,6.244392100000001,-75.5959946
+2909,Paradise,Hotel,"Avenida 33 con Calle 33 80B, Las Acacias, Laureles",Medellín,Point Z,6.2385974,-75.6021392
+2910,Lobby,Hotel,"Carrera 81 34, Las Acacias, Laureles-Estadio, Mede",Medellín,Point Z,6.241348800000001,-75.60263309999999
+2911,Inntu,Hotel,"Laureles, Laureles-Estadio, Medellín, Antioquia",Medellín,Point Z,6.2427589,-75.5960745
+2912,Urban Buddha Hostel,Hostel,"Circular 73A Transversal 38, Laureles, Laureles-Es",Medellín,Point Z,6.2428711,-75.59535
+2913,Buddha Art Boutique Hostels,Hotel,"Circular 73A Transversal 38, Laureles, Laureles-Es",Medellín,Point Z,6.2428711,-75.59535
+2914,Hotel Casa Laureles 4 Estrellas,Hotel,"Avenida Calle 37 78, Laureles, Laureles-Estadio, M",Medellín,Point Z,6.241908599999999,-75.57994479999999
+2915,Hotel Colonial de la 80,Hotel,"Carrera 80C 34A 21-141, Las Acacias, Laureles-Esta",Medellín,Point Z,6.241272899999999,-75.602539
+2916,Hotel Villa del Marques,Hotel,"Calle 36 con Calle 36 80, Las Acacias, Laureles-Es",Medellín,Point Z,6.240963799999999,-75.60116719999999
+2917,Cabañas Los Flamencos,Hotel,"Carrera 82 35, Simón Bolívar, La America, Medellín",Medellín,Point Z,6.2441736,-75.6040751
+2918,Colonial,Hotel,"Las Acacias, Laureles-Estadio, Medellín, Antioquia",Medellín,Point Z,6.240963799999999,-75.60116719999999
+2919,Ecolodge Bahia del Peñón,Hotel,"Carrera 80A 34, Las Acacias, Laureles-Estadio, Med",Medellín,Point Z,6.2409818,-75.60109
+2920,Kuboz,Hotel,"Calle 32F 66B 142-230, Rosales, Belen, Medellín, A",Medellín,Point Z,6.2388755,-75.58866259999999
+2921,Aloha,Hotel,"Conquistadores, Laureles-Estadio, Medellín, Antioq",Medellín,Point Z,6.2423547,-75.581523
+2922,Kuboz,Hotel,"Avenida 33 con Avenida 33 66B, Rosales, Belen, Med",Medellín,Point Z,6.239415300000001,-75.5907477
+2923,Luxury 33,Hotel,"Rosales, Belen, Medellín, Antioquia",Medellín,Point Z,6.2348523,-75.5902541
+2924,White House,Hotel,"Transversal 39B Carrera 66B, Laureles, Laureles-Es",Medellín,Point Z,6.2447468,-75.595038
+2925,Bulerías,Hotel,"Transversal 39B Carrera 66B, Laureles, Laureles-Es",Medellín,Point Z,6.2447468,-75.595038
+2926,Asturias Hotel,Hotel,"Circular 4 Carrera 73 94, Laureles, Laureles-Estad",Medellín,Point Z,6.2464528,-75.5893897
+2927,Hotel Asturias,Hotel,"Circular 4 con Carrera 74, Laureles, Laureles-Esta",Medellín,Point Z,6.2464528,-75.5893897
+2928,Hotel Picasso,Hotel,"Carrera 69 32A 2-98, Rosales, Belen, Medellín, Ant",Medellín,Point Z,6.235327799999999,-75.5899524
+2929,Casa Malibu,Hotel,"Calle 32F 66C 1-199, Rosales, Belen, Medellín, Ant",Medellín,Point Z,6.2384569,-75.58805749999999
+2930,Casa Hotel Asturias,Hotel,"Circular 4 con Circular 4 Carrera 73, Laureles, La",Medellín,Point Z,6.245677499999999,-75.5922884
+2931,Hotel Balcones de la 70,Hotel,"Carrera 69 con Carrera 69 Circular 2, San Joaquín,",Medellín,Point Z,-33.4959725,-70.6300971
+2932,La Hacienda,Hotel,"Circular 2 con Circular 2 Carrera 70, Bolivariana,",Medellín,Point Z,6.2451463,-75.5893334
+2933,Finca Hotel Villa del Lago,Hotel,"Diagonal 74C Transversal 32E 1-99, Rosales, Belen,",Medellín,Point Z,6.2365722,-75.5934154
+2934,Bolivariana Plaza,Hotel,"Circular 1 con Circular 1 74, U. P. B., Laureles-E",Medellín,Point Z,6.242390299999999,-75.59209
+2935,La Cabaña de Beto y María,Hotel,"Carrera 95 con Carrera 95 43, Campo Alegre, La Ame",Medellín,Point Z,3.3743721,-76.5471495
+2936,Paisa City Hostel Medellin,Hostel,"Avenida Antonio Roldan, Unidad Deportiva Atanasio ",Medellín,Point Z,6.2541443,-75.5924045
+2937,Hotel Zandalo,Hotel,"Carrera 69A 42 2-68, Bolivariana, Laureles-Estadio",Medellín,Point Z,6.247573,-75.5883891
+2938,Almaviva Casa Hotel,Hotel,"Carrera 68A 45 1-99, Naranjal, Laureles-Estadio, M",Medellín,Point Z,6.250770699999999,-75.5866795
+2939,Hotel Amoblados Ivanna,Hotel,"Carrera 68A 45 1-99, Naranjal, Laureles-Estadio, M",Medellín,Point Z,6.250770699999999,-75.5866795
+2940,Hotel Merlott,Hotel,"Calle 44A 70 2-198, Florida Nueva, Laureles-Estadi",Medellín,Point Z,6.2499094,-75.5886917
+2941,El Rami Medellín,Hotel,"Carrera 72 Circular 5, Bolivariana, Laureles-Estad",Medellín,Point Z,6.246724899999999,-75.59171599999999
+2942,Hotel Los Almendros,Hotel,"Calle 41A 70 2-98, Bolivariana, Laureles-Estadio, ",Medellín,Point Z,6.2476804,-75.58899
+2943,Punto 70,Hotel,"Carrera 70 47 44-98, Naranjal, Laureles-Estadio, M",Medellín,Point Z,6.2526481,-75.5876811
+2944,Montes,Hotel,"Carrera 70 47, Florida Nueva, Laureles-Estadio, Me",Medellín,Point Z,6.2526481,-75.5876811
+2945,Imperio 70,Hotel,"Calle 46B con Carrera 70, Naranjal, Laureles-Estad",Medellín,Point Z,6.2518266,-75.587452
+2946,Florida Nueva,Hotel,"Florida Nueva, Laureles-Estadio, Medellín, Antioqu",Medellín,Point Z,6.251009,-75.59098159999999
+2947,70,Hotel,"Calle 46 con Carrera 69A, Naranjal, Laureles-Estad",Medellín,Point Z,6.251297000000001,-75.58775969999999
+2948,Laureles Park,Hotel,"Calle 39D con Calle 39D 73, Laureles, Laureles-Est",Medellín,Point Z,6.2464217,-75.5932524
+2949,Jardín,Hostel,"Laureles, Laureles-Estadio, Medellín, Antioquia",Medellín,Point Z,6.2427589,-75.5960745
+2950,Saffire Suites,Hotel,"Avenida San Juan 2-98, Naranjal, Laureles-Estadio,",Medellín,Point Z,6.2467386,-75.5765696
+2951,San Juan 70,Hotel,"Avenida San Juan, Bolivariana, Laureles-Estadio, M",Medellín,Point Z,6.2493316,-75.5902225
+2952,Zona Blanca,Hotel,"Avenida San Juan 1-99, Bolivariana, Laureles-Estad",Medellín,Point Z,6.252255099999999,-75.60780059999999
+2953,Hotel Los Molinos,Hostel,"Carrera 70A 45E 1-99, Florida Nueva, Laureles-Esta",Medellín,Point Z,6.250909699999999,-75.5888652
+2954,Hotel Los Molinos,Hotel,"Carrera 70A 45E 1-99, Florida Nueva, Laureles-Esta",Medellín,Point Z,6.250909699999999,-75.5888652
+2955,Verony,Hotel,"Circular 3 con Carrera 70, Bolivariana, Laureles-E",Medellín,Point Z,6.2458807,-75.589242
+2956,Cabo de la Vela Hotel,Hotel,"Bolivariana, Laureles-Estadio, Medellín, Antioquia",Medellín,Point Z,6.2477611,-75.5902541
+2957,The Wandering Paisa,Hostel,"Calle 44A 68A 100-148, Naranjal, Laureles-Estadio,",Medellín,Point Z,6.2499009,-75.5877065
+2958,Hotel Quinta Avenida,Hotel,"Circular 5 Carrera 69 52, Bolivariana, Laureles-Es",Medellín,Point Z,6.2471014,-75.58834999999999
+2959,Lobby Park Hotel,Hotel,"Circular 3 con Circular 3 Carrera 71, Bolivariana,",Medellín,Point Z,No dirección,No dirección
+2960,Hotel Ambar,Hotel,"Calle 41A 70, Bolivariana, Laureles-Estadio, Medel",Medellín,Point Z,6.2477189,-75.5894568
+2961,Hotel Florida,Hotel,"Carrera 70 44A 150-198, Naranjal, Laureles-Estadio",Medellín,Point Z,6.2502662,-75.58870069999999
+2962,Hotel Gaudí,Hotel,"Carrera 70 Circular 5 2-98, Bolivariana, Laureles-",Medellín,Point Z,6.245652499999999,-75.5894313
+2963,Apartahotel Alcazar del Parque,Hotel,"Calle 40 con Calle 40 73, Laureles, Laureles-Estad",Medellín,Point Z,6.2466035,-75.59255279999999
+2964,Hotel El Portón de San Joaquín,Hotel,"Calle 42 68A 2-98, San Joaquín, Laureles-Estadio, ",Medellín,Point Z,6.246974,-75.585161
+2965,Gran Imperio,Hotel,"Avenida San Juan 1-99, San Joaquín, Laureles-Estad",Medellín,Point Z,6.252255099999999,-75.60780059999999
+2966,Hotel Plaza 70,Hotel,"Carrera 70 44A 150-198, Naranjal, Laureles-Estadio",Medellín,Point Z,6.2502662,-75.58870069999999
+2967,Hotel Los Faroles,Hotel,"Carrera 70 44A 150-198, Naranjal, Laureles-Estadio",Medellín,Point Z,6.2502662,-75.58870069999999
+2968,Hotel Florida,Hotel,"Calle 44B 70, Florida Nueva, Laureles-Estadio, Med",Medellín,Point Z,6.2505783,-75.5892764
+2969,Villa Real,Hotel,"Calle 47 70, Florida Nueva, Laureles-Estadio, Mede",Medellín,Point Z,6.2526853,-75.58753109999999
+2970,Hotel Parque 70,Hotel,"Calle 46B 69 103-149, Naranjal, Laureles-Estadio, ",Medellín,Point Z,6.2517331,-75.587648
+2971,Hotel Lincoln,Hotel,"Bolivariana, Laureles-Estadio, Medellín, Antioquia",Medellín,Point Z,6.2477611,-75.5902541
+2972,Hotel Caseron Plaza,Hotel,"Carrera 74 43 1-99, Lorena, Laureles-Estadio, Mede",Medellín,Point Z,6.2491898,-75.59375539999999
+2973,Villas de San Juan,Hotel,"Avenida San Juan, Bolivariana, Laureles-Estadio, M",Medellín,Point Z,6.2493316,-75.5902225
+2974,Hotel Leuroz,Hotel,"Carrera 70A con Carrera 70A 43, Bolivariana, Laure",Medellín,Point Z,6.2487743,-75.5896321
+2975,Hotel Villa Real,Hotel,"Carrera 70 44A 150-198, Naranjal, Laureles-Estadio",Medellín,Point Z,6.2502662,-75.58870069999999
+2976,Hotel Imperio 70,Hotel,"Carrera 70 44A 150-198, Naranjal, Laureles-Estadio",Medellín,Point Z,6.2502662,-75.58870069999999
+2977,Hotel Lukas,Hotel,"Carrera 70 44A 2-98, Naranjal, Laureles-Estadio, M",Medellín,Point Z,6.2502662,-75.58870069999999
+2978,Barcelona Estadio,Hotel,"Avenida Antonio Roldan 1-99, Naranjal, Laureles-Es",Medellín,Point Z,6.2523921,-75.5816344
+2979,Hosteria Mis Ancestros,Hostel,"Carrera 68 48 2-98, Suramericana, Laureles-Estadio",Medellín,Point Z,6.253018099999999,-75.5864244
+2980,Guaracu,Hotel,"Carrera 75 42, Lorena, Laureles-Estadio, Medellín,",Medellín,Point Z,6.2487264,-75.5947839
+2981,Finca Hotel en Jardín,Hotel,"Carrera 75 42, Lorena, Laureles-Estadio, Medellín,",Medellín,Point Z,6.2487264,-75.5947839
+2982,Hotel Villa 70,Hotel,"Calle 44A 70, Florida Nueva, Laureles-Estadio, Med",Medellín,Point Z,6.2500827,-75.5892083
+2983,Casa Hotel Cabellos Dorados,Hotel,"Carrera 72 Circular 5, Bolivariana, Laureles-Estad",Medellín,Point Z,6.246724899999999,-75.59171599999999
+2984,Hotel Casa Blanca Laureles,Hotel,"Carrera 72 Circular 5, Bolivariana, Laureles-Estad",Medellín,Point Z,6.246724899999999,-75.59171599999999
+2985,Hotel Egina,Hotel,"Naranjal, Laureles-Estadio, Medellín, Antioquia",Medellín,Point Z,6.250181299999999,-75.5844334
+2986,Rodadero,Hotel,"Carrera 77A con Carrera 77A 45A, El Velódromo, Lau",Medellín,Point Z,6.2544246,-75.594918
+2987,Lukas,Hotel,"Calle 44B con Carrera 70, Florida Nueva, Laureles-",Medellín,Point Z,6.250374799999999,-75.58856829999999
+2988,Gaudi,Hotel,"Carrera 70 Circular 5 2-98, Bolivariana, Laureles-",Medellín,Point Z,6.245652499999999,-75.5894313
+2989,Balcones de la 70,Hotel,"Carrera 70 Circular 2 2-98, Bolivariana, Laureles-",Medellín,Point Z,6.245652499999999,-75.5894313
+2990,Hotel Laureles 70,Hotel,"Carrera 70 Circular 5 1-99, Bolivariana, Laureles-",Medellín,Point Z,6.245652499999999,-75.5894313
+2991,Prince Plaza,Hotel,"Carrera 68A 44, Naranjal, Laureles-Estadio, Medell",Medellín,Point Z,6.2494051,-75.5868539
+2992,Hotel Mediterraneo,Hotel,"Calle 41A 70 2-98, Bolivariana, Laureles-Estadio, ",Medellín,Point Z,6.2476804,-75.58899
+2993,Girasol 70,Hotel,"Carrera 70 47, Naranjal, Laureles-Estadio, Medellí",Medellín,Point Z,6.2526481,-75.5876811
+2994,Hotel Portico 70,Hotel,"Carrera 70 45E 2-98, Naranjal, Laureles-Estadio, M",Medellín,Point Z,6.251813299999999,-75.588302
+2995,Plaza 70,Hotel,"Calle 46B con Carrera 70, Naranjal, Laureles-Estad",Medellín,Point Z,6.2518266,-75.587452
+2996,Florida,Hotel,"Carrera 70 44A, Naranjal, Laureles-Estadio, Medell",Medellín,Point Z,6.2502662,-75.58870069999999
+2997,La Floresta,Hostel,"Carrera 81 48A, Calasanz, La America, Medellín, An",Medellín,Point Z,6.2596975,-75.5985706
+2998,Mi Terraza,Hostel,"Carrera 74 48 35, Unidad Deportiva Atanasio Girard",Medellín,Point Z,No dirección,No dirección
+2999,Portal Marinillo,Hostel,"Carrera 74 48 27, Estadio, Laureles-Estadio, Medel",Medellín,Point Z,6.256682199999999,-75.5922803
+3000,Porlón Estadio,Hotel,"Carrera 74 48 19, Estadio, Laureles-Estadio, Medel",Medellín,Point Z,6.2566786,-75.59230389999999
+3001,TRYP HOTELS,Hotel,"Calle 50 70, Unidad Deportiva Atanasio Girardot, L",Medellín,Point Z,No dirección,No dirección
+3002,Jardín N. 2,Hostel,"Carrera 80 49A con Carrera 80 49F, Estadio, Laurel",Medellín,Point Z,6.261375300000001,-75.5973704
+3003,Calasanz Real,Hotel,"Calle 50 81, Calasanz, La America, Medellín, Antio",Medellín,Point Z,6.263940499999999,-75.5975254
+3004,Molicie Hotel,Hotel,"Calle 54 con Carrera 77D, Los Colores, Laureles-Es",Medellín,Point Z,6.2670882,-75.59230640000001
+3005,Su Casa Colombia,Hostel,"Calle 49A 76A 2-148, Estadio, Laureles-Estadio, Me",Medellín,Point Z,6.260037199999999,-75.5921126
+3006,Molice Hotel,Hotel,"Los Colores, Laureles-Estadio, Medellín, Antioquia",Medellín,Point Z,6.2665446,-75.5924368
+3007,Hotel Almar,Hotel,"Carrera 81 49A 2-98, Calasanz, La America, Medellí",Medellín,Point Z,6.2619699,-75.59788619999999
+3008,Hotel Estadio Real,Hotel,"Carrera 77C 48 1-199, Estadio, Laureles-Estadio, M",Medellín,Point Z,6.2583554,-75.59550329999999
+3009,Hotel San Pedro del Fuerte,Hotel,"Calle 46 80 1-99, Floresta, La America, Medellín, ",Medellín,Point Z,6.2563169,-75.5983701
+3010,Casa Mayor,Hotel,"Carrera 77C 48 1-199, Estadio, Laureles-Estadio, M",Medellín,Point Z,6.2583554,-75.59550329999999
+3011,Primavera Plaza,Hotel,"Calle 50 79, Estadio, Laureles-Estadio, Medellín, ",Medellín,Point Z,6.263122999999999,-75.5963701
+3012,Best,Hotel,"Calle 65 con Calle 65 91, Robledo, Medellín, Antio",Medellín,Point Z,6.27386,-75.59430859999999
+3014,Affinity Aparta Hotel,Hotel,"Calle 6 Sur 43A 140, La Aguacatala, El Poblado, Me",Medellín,Point Z,6.199963299999999,-75.574963
+3015,Waypoint Hostel,Hostel,"Carrera 48B 10 S 1-199, La Aguacatala, El Poblado,",Medellín,Point Z,6.1970833,-75.5793192
+3017,Hotel Poblado Alejandría,Hostel,"Carrera 36 con Carrera 36 2 S, Alejandría, El Pobl",Medellín,Point Z,6.2034815,-75.5716589
+3018,Living,Hostel,"Avenida Las Vegas 2-98, La Aguacatala, El Poblado,",Medellín,Point Z,6.1994367,-75.577612
+3019,Soul,Hotel,"Carrera 35 con Carrera 35 2 S, Alejandría, El Pobl",Medellín,Point Z,6.2034815,-75.5716589
+3020,Inturem,Hotel,"Carrera 43A con Avenida El Poblado, El Diamante 2,",Medellín,Point Z,6.200665499999999,-75.5727303
+3021,Hampton,Hotel,"Calle 5 S con Avenida Loma de los Gonzalez, Los Ba",Medellín,Point Z,No dirección,No dirección
+3022,Holiday Inn Express,Hotel,"Avenida El Poblado 2-98, Alejandría, El Poblado, M",Medellín,Point Z,6.2345327,-75.57020709999999
+3023,City Express Plus,Hotel,"Patio Bonito, El Poblado, Medellín, Antioquia",Medellín,Point Z,6.2060607,-75.57570199999999
+3024,Alcazar de Oviedo,Hotel,"Calle 6 Sur 43A 246-298, La Aguacatala, El Poblado",Medellín,Point Z,6.2002691,-75.5754884
+3025,Hotel bh,Hotel,"El Castillo, El Poblado, Medellín, Antioquia",Medellín,Point Z,6.190501900000001,-75.5727914
+3026,Poblado Plaza,Hotel,"Carrera 43A con Avenida El Poblado, La Aguacatala,",Medellín,Point Z,6.200665499999999,-75.5727303
+3027,Hotel Poblado Alejandria,Hotel,"Carrera 36 con Carrera 36 2 S, Alejandría, El Pobl",Medellín,Point Z,6.2034815,-75.5716589
+3029,Hotel Poblado Campestre,Hotel,"Calle 16B S con Calle 16B Sur 41, El Diamante 2, E",Medellín,Point Z,6.1875867,-75.5753093
+3030,Hotel Leblon Suites,Hotel,"Carrera 42A 1 S 2-198, Alejandría, El Poblado, Med",Medellín,Point Z,6.2036912,-75.5710258
+3031,Novelty,Hotel,"La Aguacatala, El Poblado, Medellín, Antioquia",Medellín,Point Z,6.199026099999999,-75.5778849
+3032,Hotel La Habana Vieja,Hotel,"Calle 10 Sur 48 7, La Aguacatala, El Poblado, Mede",Medellín,Point Z,6.1969541,-75.5788451
+3033,Hotel Santa Ana Medellin,Hotel,"Calle 15 Sur 48 144, Santa María de los Ángeles, E",Medellín,Point Z,6.193175399999999,-75.58131829999999
+3034,FOUR POINTS BY SHERATON,Hotel,"Carrera 43B con Carrera 43B 7 S, La Aguacatala, El",Medellín,Point Z,6.1968516,-75.5743396
+3035,Portón Medellín,Hotel,"Carrera 43A con Avenida El Poblado, La Aguacatala,",Medellín,Point Z,6.200665499999999,-75.5727303
+3036,ESTELAR,Hotel,"Patio Bonito, El Poblado, Medellín, Antioquia",Medellín,Point Z,6.2060607,-75.57570199999999
+3037,Hotel M,Hotel,"Alejandría, El Poblado, Medellín, Antioquia",Medellín,Point Z,6.200739899999999,-75.56988079999999
+3038,Poblado Campestre Hotel,Hotel,"Calle 16B S con Carrera 42, El Diamante 2, El Pobl",Medellín,Point Z,6.1884828,-75.5762704
+3039,Portales del Campestre,Hotel,"Carrera 35C con Carrera 41, El Diamante 2, El Pobl",Medellín,Point Z,6.1869707,-75.5748706
+3040,NH Collection Medellín Royal,Hotel,"Carrera 42 6 105-105, Los Balsos 2, El Poblado, Me",Medellín,Point Z,6.2003912,-75.57174510000002
+3041,Hotel ESTELAR Apartamentos,Hotel,"Carrera 43B con Carrera 43B 8 S, La Aguacatala, El",Medellín,Point Z,6.2009614,-75.5744353
+3042,Rose Plaza,Hotel,"Carrera 31 con Carrera 31 2, La Florida, El Poblad",Medellín,Point Z,6.2008807,-75.5635722
+3043,Casa Victoria,Hotel,"Carrera 32 1 S con Transversal Inferior, Alejandrí",Medellín,Point Z,31.2000924,29.9187387
+3044,Lleras Green Hotel,Hotel,"Calle 9 40, El Poblado, Medellín, Antioquia",Medellín,Point Z,6.2090799,-75.5686187
+3045,Los Andes Hostel,Hotel,"Carrera 43 10, El Poblado, Medellín, Antioquia",Medellín,Point Z,6.2109198,-75.5698979
+3046,Blackpine,Hostel,"Carrera 47A 5 41-199, Patio Bonito, El Poblado, Me",Medellín,Point Z,6.20758,-75.5763096
+3047,Conejos y Conejos,Hotel,"Calle 10 43C 59-99, Astorga, El Poblado, Medellín,",Medellín,Point Z,6.211188099999999,-75.5723704
+3048,Summer Wind,Hotel,"Calle 11 con Carrera 43B, Manila, El Poblado, Mede",Medellín,Point Z,6.2131045,-75.5706315
+3049,Dix,Hotel,"Calle 10 41, El Poblado, Medellín, Antioquia",Medellín,Point Z,6.210127399999999,-75.56887789999999
+3050,La Presidenta,Hostel,"Avenida El Poblado 2-98, El Poblado, Medellín, Ant",Medellín,Point Z,6.2345327,-75.57020709999999
+3051,Tamarindo Inn,Hostel,"Avenida El Poblado 2-98, El Poblado, Medellín, Ant",Medellín,Point Z,6.2345327,-75.57020709999999
+3052,Alameda de la 10,Hotel,"Carrera 43F 10, Manila, El Poblado, Medellín, Anti",Medellín,Point Z,6.2123252,-75.5737123
+3053,Hotel the Charlee,Hotel,"Calle 9A 37 1-49, El Poblado, Medellín, Antioquia",Medellín,Point Z,6.2087095,-75.5668089
+3054,Hotel Florencia Plaza,Hotel,"Carrera 41A 10, El Poblado, Medellín, Antioquia",Medellín,Point Z,6.2107193,-75.56904879999999
+3055,Hotel Torre Poblado,Hotel,"Carrera 42 9 2-148, El Poblado, Medellín, Antioqui",Medellín,Point Z,6.2003772,-75.57175099999999
+3056,Hotel Sites,Hotel,"Carrera 45 con Carrera 45 5, Patio Bonito, El Pobl",Medellín,Point Z,6.207081199999999,-75.5743206
+3057,Hotel Parque Plaza,Hotel,"Carrera 43B 9, Astorga, El Poblado, Medellín, Anti",Medellín,Point Z,6.2105982,-75.57140430000001
+3058,Hotel Dann Carlton,Hotel,"Carrera 43A con Avenida El Poblado, La Florida, El",Medellín,Point Z,6.200665499999999,-75.5727303
+3059,Orange Suites,Hotel,"Carrera 43C 7D 1-99, Astorga, El Poblado, Medellín",Medellín,Point Z,6.2088686,-75.57277359999999
+3060,San Fernando Plaza,Hotel,"Avenida El Poblado 2-98, La Florida, El Poblado, M",Medellín,Point Z,6.2345327,-75.57020709999999
+3061,La Charlee,Hotel,"Carrera 37A con Calle 9A, El Poblado, Medellín, An",Medellín,Point Z,6.2088582,-75.56719489999999
+3062,Hotel Casa Lleras,Hotel,"Carrera 39 8 1-149, El Poblado, Medellín, Antioqui",Medellín,Point Z,6.2078376,-75.5684136
+3063,Lleras Park Hostal,Hostel,"Carrera 39 8 1-149, El Poblado, Medellín, Antioqui",Medellín,Point Z,6.2078376,-75.5684136
+3064,Hotel Cispata,Hotel,"Transversal 5A con Transversal 5A 45, Patio Bonito",Medellín,Point Z,6.2075126,-75.5754633
+3065,Hotel Alcázar de Patio Bonito,Hotel,"Carrera 45 con Calle 6, Astorga, El Poblado, Medel",Medellín,Point Z,6.2076536,-75.57440629999999
+3066,Hotel El Tesoro,Hotel,"Calle 11A 43B 2-148, Manila, El Poblado, Medellín,",Medellín,Point Z,6.212633299999999,-75.57070829999999
+3067,Rose Street,Hotel,"Carrera 37A 8 1-99, El Poblado, Medellín, Antioqui",Medellín,Point Z,6.2073414,-75.5677584
+3068,Art Hotel Boutique,Hotel,"Carrera 41 9, El Poblado, Medellín, Antioquia",Medellín,Point Z,6.2096759,-75.5690018
+3069,ESTELAR,Hotel,"Alejandría, El Poblado, Medellín, Antioquia",Medellín,Point Z,6.200739899999999,-75.56988079999999
+3070,Le Blon Suites,Hotel,"Carrera 42A 1 S 1-199, Alejandría, El Poblado, Med",Medellín,Point Z,6.2036912,-75.5710258
+3071,Casa 10,Hotel,"Calle 11 con Carrera 43C, Manila, El Poblado, Mede",Medellín,Point Z,6.2111116,-75.571923
+3072,Purple Monkey Hostel,Hostel,"Calle 12 43D 2-120, Manila, El Poblado, Medellín, ",Medellín,Point Z,6.1940845,-75.5789352
+3073,Guayabal,Hotel,"Carrera 52 7, Campo Amor, Guayabal, Medellín, Anti",Medellín,Point Z,6.2133837,-75.5823004
+3074,VIAGGIO,Hotel,"Castropol, El Poblado, Medellín, Antioquia",Medellín,Point Z,6.2161401,-75.56697
+3075,Carlton,Hotel,"Calle 17 con Calle 17 40B, Castropol, El Poblado, ",Medellín,Point Z,6.2167486,-75.5669891
+3076,Tiger Hostel,Hostel,"Carrera 36 10 1-99, El Poblado, Medellín, Antioqui",Medellín,Point Z,6.2088864,-75.5659969
+3077,Element Hotel,Hotel,"Carrera 34 7 25-169, La Florida, El Poblado, Medel",Medellín,Point Z,6.206197,-75.5647493
+3078,Hotel Zona a,Hotel,"Calle 10B 37, El Poblado, Medellín, Antioquia",Medellín,Point Z,6.2104611,-75.566447
+3079,Happy Buddha Boutique Hostel,Hotel,"Carrera 35 7 21-149, La Florida, El Poblado, Medel",Medellín,Point Z,6.2063733,-75.56556359999999
+3080,Caminante Hostel,Hostel,"Carrera 35 7 2-148, La Florida, El Poblado, Medell",Medellín,Point Z,6.2062357,-75.5652654
+3081,Hotel Natura Medellín,Hotel,"Carrera 35 7 2-148, La Florida, El Poblado, Medell",Medellín,Point Z,6.2062357,-75.5652654
+3082,Yolo Hostel Medellin,Hotel,"La Florida, El Poblado, Medellín, Antioquia",Medellín,Point Z,6.205738699999999,-75.5640593
+3083,Hotel Casa La Fleur,Hotel,"Carrera 35 7 2-148, La Florida, El Poblado, Medell",Medellín,Point Z,6.2062357,-75.5652654
+3084,Hotel Merlott Lleras,Hotel,"Carrera 37 10, El Poblado, Medellín, Antioquia",Medellín,Point Z,6.2078376,-75.56660389999999
+3085,Selina Medellin,Hotel,"Carrera 32D 9, El Poblado, Medellín, Antioquia",Medellín,Point Z,6.2085266,-75.563934
+3086,Samán,Hostel,"Calle 10 36 2-56, El Poblado, Medellín, Antioquia",Medellín,Point Z,6.2090308,-75.5662613
+3087,Binn,Hotel,"Carrera 25 con Carrera 25 10, Altos del Poblado, E",Medellín,Point Z,6.2119002,-75.5552919
+3088,Santa Fe Colonial,Hotel,"Carrera 32D con Carrera 32D 9, La Florida, El Pobl",Medellín,Point Z,6.2034815,-75.5716589
+3089,Hotel Acqua,Hotel,"Carrera 35 7 21-149, La Florida, El Poblado, Medel",Medellín,Point Z,6.2063733,-75.56556359999999
+3090,Las Rosas Hotel Boutique,Hotel,"Carrera 33 5G 1-73, La Florida, El Poblado, Medell",Medellín,Point Z,6.2051225,-75.5641098
+3091,Hotel Poblado Boutique Express,Hotel,"Carrera 34 con Carrera 34 7, La Florida, El Poblad",Medellín,Point Z,6.207245599999999,-75.564932
+3092,Hotel Plaza Rosa,Hotel,"El Poblado, Medellín, Antioquia",Medellín,Point Z,6.2034815,-75.5716589
+3093,Kolor Hotel Boutique,Hotel,"Carrera 33 5G 1-73, La Florida, El Poblado, Medell",Medellín,Point Z,6.2051225,-75.5641098
+3094,La Campana Hotel Boutique,Hotel,"Calle 11A con Calle 11A 31A, Las Lomas 1, El Pobla",Medellín,Point Z,6.2118026,-75.56198549999999
+3095,Hotel in House,Hotel,"Carrera 34 7 25-169, La Florida, El Poblado, Medel",Medellín,Point Z,6.206197,-75.5647493
+3096,Hotel Park 10,Hotel,"Las Lomas 1, El Poblado, Medellín, Antioquia",Medellín,Point Z,6.2108183,-75.5611485
+3097,Diez Hotel,Hotel,"Calle 10A con Carrera 34, Las Lomas 1, El Poblado,",Medellín,Point Z,6.2090742,-75.5647456
+3098,Intercontinental,Hotel,"Las Lomas 2, El Poblado, Medellín, Antioquia",Medellín,Point Z,6.211362599999999,-75.5575099
+3099,Hotel Diez,Hotel,"Carrera 35 10 1-99, El Poblado, Medellín, Antioqui",Medellín,Point Z,6.208711399999999,-75.5655524
+3100,Best Western,Hotel,"Carrera 29C con Carrera 29C 10C, Las Lomas 2, El P",Medellín,Point Z,6.2120159,-75.558533
+3101,Hotel Casa Pórtico,Hotel,"Carrera 36 con Carrera 36 8A, El Poblado, Medellín",Medellín,Point Z,6.2081922,-75.5662305
+3102,Hotel Boutique,Hotel,"Calle 16B con Carrera 31, La Asomadera 2, Buenos A",Medellín,Point Z,6.2168796,-75.56090569999999
+3103,Premium Real,Hotel,"Carrera 32 10 1-149, Las Lomas 1, El Poblado, Mede",Medellín,Point Z,6.2087704,-75.5619578
+3104,Relax 10,Hostel,"Calle 10 37, El Poblado, Medellín, Antioquia",Medellín,Point Z,6.2111941,-75.5725413
+3105,Finca Hotel Villa Sofia Hispania,Hotel,"Carrera 31 16, La Asomadera 2, Buenos Aires, Medel",Medellín,Point Z,6.216795299999999,-75.56093419999999
+3106,Monticelo,Hostel,"Calle 10A con Carrera 22, Altos del Poblado, El Po",Medellín,Point Z,6.2085115,-75.5536278
+3107,Poblado Boutique-Express,Hotel,"Carrera 34 7 25-169, La Florida, El Poblado, Medel",Medellín,Point Z,6.206197,-75.5647493
+3108,Hotel Casa Kiwi,Hotel,"Calle 7 con Calle 7 35, La Florida, El Poblado, Me",Medellín,Point Z,6.205738699999999,-75.5640593
+3109,Plaza Rosa,Hotel,"Carrera 32D con Carrera 32D 9, El Poblado, Medellí",Medellín,Point Z,6.2085266,-75.563934
+3110,Geo Hostel,Hotel,"Carrera 35 8 2-148, El Poblado, Medellín, Antioqui",Medellín,Point Z,6.207990499999999,-75.5660377
+3111,Best Western,Hotel,"Carrera 30A 9 2-98, La Florida, El Poblado, Medell",Medellín,Point Z,6.208330500000001,-75.559716
+3112,Hotel Plaza Granada,Hotel,"Calle 14 con Calle 14 30, Lalinde, El Poblado, Med",Medellín,Point Z,6.2150168,-75.57517899999999
+3113,Intercontinental,Hotel,"Las Lomas 2, El Poblado, Medellín, Antioquia",Medellín,Point Z,6.211362599999999,-75.5575099
+3114,Afrodita,Hostel,"Carrera 52 25, Trinidad, Guayabal, Medellín, Antio",Medellín,Point Z,6.226259799999999,-75.5783733
+3115,ibis,Hotel,"Carrera 44 con Carrera 44 20, Simesa, El Poblado, ",Medellín,Point Z,6.2034815,-75.5716589
+3116,Ghl Comfort Hotel,Hotel,"Calle 31 43 2-148, San Diego, La Candelaria, Medel",Medellín,Point Z,4.6320503,-74.080356
+3117,Hotel Brisas de Santa Fé,Hotel,"San Diego, La Candelaria, Medellín, Antioquia",Medellín,Point Z,6.2322903,-75.5676977
+3118,Hotel Porton Colonial,Hotel,"Calle 34B 65D 2-98, Conquistadores, Laureles-Estad",Medellín,Point Z,6.240226,-75.5853341
+3119,Terra Biohotel,Hotel,"Conquistadores, Laureles-Estadio, Medellín, Antioq",Medellín,Point Z,6.2423547,-75.581523
+3120,Expo Hotel,Hotel,"Carrera 52 35 2-148, Perpetuo Socorro, La Candelar",Medellín,Point Z,6.2367157,-75.5744708
+3121,Thematic Luxury,Hotel,"Calle 33 63B, Conquistadores, Laureles-Estadio, Me",Medellín,Point Z,6.2396522,-75.5797821
+3122,Sofa King Good,Hostel,"Calle 33 65, Conquistadores, Belen, Medellín, Anti",Medellín,Point Z,6.2391945,-75.5855852
+3123,Nirvana,Hotel,"Avenida 33 con Carrera 65C, Fátima, Belen, Medellí",Medellín,Point Z,6.2393678,-75.58484
+3124,Roxy,Hotel,"Calle 33 65C 31-139, Fátima, Belen, Medellín, Anti",Medellín,Point Z,6.2391912,-75.5851088
+3125,Horizonte,Hostel,"Calle 45 45A con Calle Amador, Colón, La Candelari",Medellín,Point Z,6.246179100000001,-75.5747148
+3126,El Descanso Donde Sara,Hostel,"Carrera 44 con Carrera 44 37, San Diego, La Candel",Medellín,Point Z,6.2322903,-75.5676977
+3127,Hotel Suite Comfort,Hotel,"Carrera 66B Circular 5, San Joaquín, Laureles-Esta",Medellín,Point Z,6.244720099999999,-75.5849501
+3128,Hotel 33 Conquest,Hotel,"Carrera 65 33, Conquistadores, Laureles-Estadio, M",Medellín,Point Z,6.2400783,-75.5828653
+3129,Playa Mayor,Hotel,"Avenida San Juan 1-99, Calle Nueva, La Candelaria,",Medellín,Point Z,6.252255099999999,-75.60780059999999
+3130,Hotel Kennedy,Hotel,"Carrera 45A con Carrera 45A 44, Colón, La Candelar",Medellín,Point Z,6.2426562,-75.56915310000001
+3131,Waikiki Covenas,Hotel,"Calle 39 con Carrera 64A, Conquistadores, Laureles",Medellín,Point Z,6.2430261,-75.58176519999999
+3132,Hostería Las 2 Palmas,Hostel,"Carrera 65 34 2-98, Conquistadores, Laureles-Estad",Medellín,Point Z,6.240037099999999,-75.5830348
+3133,Copetran,Hotel,"Calle 35 con Carrera 52A, Perpetuo Socorro, La Can",Medellín,Point Z,6.2356652,-75.5723204
+3134,Good Nigth,Hotel,"Carrera 46 45, Colón, La Candelaria, Medellín, Ant",Medellín,Point Z,6.247139799999999,-75.5662826
+3135,Gallery Hotel,Hotel,"Calle 47 41, Bombona 1, La Candelaria, Medellín, A",Medellín,Point Z,6.243612600000001,-75.5628285
+3136,Memphis Hostal,Hostel,"Carrera 36 36, El Salvador, Buenos Aires, Medellín",Medellín,Point Z,6.237128999999999,-75.5560544
+3137,LQ,Hotel,"Carrera 38 con Avenida Las Palmas, La Asomadera 2,",Medellín,Point Z,6.219192,-75.56602389999999
+3138,Cupido,Hotel,"Calle 46 43, Colón, La Candelaria, Medellín, Antio",Medellín,Point Z,6.2437149,-75.565077
+3139,Hospedaje Zeus,Hostel,"Carrera 45 con Avenida El Palo, Colón, La Candelar",Medellín,Point Z,6.248655599999999,-75.5636502
+3140,Paradise,Hotel,"Calle 49 36, Buenos Aires, Medellín, Antioquia",Medellín,Point Z,6.2435315,-75.5578939
+3141,Hostal Poblado Park,Hostel,"Calle 43 36, Gerona, Buenos Aires, Medellín, Antio",Medellín,Point Z,6.237128999999999,-75.5560544
+3142,Hotel Plazuela San Ignacio,Hotel,"Carrera 43 48 con Calle 48 43, Bombona 1, La Cande",Medellín,Point Z,6.2455199,-75.56370679999999
+3143,Deportista,Hotel,"Calle 46 43, Colón, La Candelaria, Medellín, Antio",Medellín,Point Z,6.2437149,-75.565077
+3144,El Gran Dallas,Hotel,"Calle 46 45, Colón, La Candelaria, Medellín, Antio",Medellín,Point Z,6.245291000000001,-75.5671176
+3145,Hotel Nuevo Samaritano,Hotel,"Carrera 45 con Calle 46, Colón, La Candelaria, Med",Medellín,Point Z,6.244802,-75.5663716
+3146,Casa Real,Hotel,"Avenida El Palo 2-98, Colón, La Candelaria, Medell",Medellín,Point Z,6.2525105,-75.5610238
+3147,Hotel Kabiut,Hotel,"Calle 46 45 2-148, Colón, La Candelaria, Medellín,",Medellín,Point Z,6.244979,-75.56658039999999
+3148,Hotel Metropol,Hotel,"Carrera 45 con Calle 47 44, La Candelaria, Medellí",Medellín,Point Z,6.2450968,-75.5651518
+3149,Hostel La Bicicleta Verde,Hostel,"Medellín, Antioquia",Medellín,Point Z,6.2476376,-75.56581530000001
+3151,Hotel California del Exito,Hotel,"Carrera 68 49 1-99, Suramericana, Laureles-Estadio",Medellín,Point Z,6.2569903,-75.584722
+3152,Suramericana,Hotel,"Calle 48 con Calle 48 65, Suramericana, Laureles-E",Medellín,Point Z,6.2535859,-75.5827879
+3153,Apartamentos Tayrona,Hostel,"Suramericana, Laureles-Estadio, Medellín, Antioqui",Medellín,Point Z,6.255345699999999,-75.5844334
+3154,Hotel Mirador de San Joaquín,Hotel,"Circular 7 con Circular 7 Avenida 66B, San Joaquín",Medellín,Point Z,No dirección,No dirección
+3155,Hotel Aristides,Hotel,"Carrera 60 48, Corazón de Jesús, La Candelaria, Me",Medellín,Point Z,6.2511071,-75.57728999999999
+3156,Eco Lodge El Almejal Bahía Solano,Hotel,"Calle 49A 65A 1-99, Suramericana, Laureles-Estadio",Medellín,Point Z,6.2551846,-75.58183970000002
+3157,Hotel Apartamentos Tayrona,Hotel,"Calle 48 64B 16, Suramericana, Laureles-Estadio, M",Medellín,Point Z,6.2530402,-75.5811028
+3158,Conquistadores,Hotel,"Carrera 54 49, San Benito, La Candelaria, Medellín",Medellín,Point Z,6.2488475,-75.5727459
+3159,Hotel del Comerciante,Hotel,"Calle 48 53 2-148, Guayaquil, La Candelaria, Medel",Medellín,Point Z,6.248838200000001,-75.5711397
+3160,Universo Plaza,Hotel,"Calle 50 53 1-117, San Benito, La Candelaria, Mede",Medellín,Point Z,6.250526,-75.5705332
+3161,Alcazar,Hotel,"Calle 49 53, San Benito, La Candelaria, Medellín, ",Medellín,Point Z,6.2498863,-75.57128139999999
+3162,Hotel Estacion San Antonio,Hotel,"Carrera 50A 47, La Candelaria, Medellín, Antioquia",Medellín,Point Z,6.2476758,-75.5688266
+3163,Hotel Colonial,Hotel,"Carrera 50 45, Guayaquil, La Candelaria, Medellín,",Medellín,Point Z,6.2459188,-75.5691164
+3164,Hotel Ayacucho Real,Hotel,"Calle 49 48, La Candelaria, Medellín, Antioquia",Medellín,Point Z,6.248002,-75.567402
+3165,Hotel San Miguel de Ayapel,Hotel,"Calle 46 51 2-98, La Candelaria, Medellín, Antioqu",Medellín,Point Z,6.246873799999999,-75.56992199999999
+3166,Hotel Calle Real,Hotel,"Calle 51 51, La Candelaria, Medellín, Antioquia",Medellín,Point Z,6.2505774,-75.5689484
+3167,Bonanza,Hotel,"Calle 46 49 2-98, La Candelaria, Medellín, Antioqu",Medellín,Point Z,6.246716699999999,-75.5682113
+3168,Hotel Ariston,Hotel,"Carrera 50 45, Guayaquil, La Candelaria, Medellín,",Medellín,Point Z,6.2459188,-75.5691164
+3169,Residencias Karoni,Hotel,"Calle 47 50 con Carrera 50A, La Candelaria, Medell",Medellín,Point Z,6.247403299999999,-75.5689077
+3170,Hotel El Roble,Hotel,"Carrera 53 48, La Candelaria, Medellín, Antioquia",Medellín,Point Z,6.249248,-75.5711196
+3171,Aburra Plaza,Hotel,"Carrera 52A 45 1-199, Guayaquil, La Candelaria, Me",Medellín,Point Z,-2.1891341,-79.8899031
+3172,Hotel Residencias Yarima,Hotel,"Carrera 50 45, Guayaquil, La Candelaria, Medellín,",Medellín,Point Z,6.2459188,-75.5691164
+3173,Hotel Colonial,Hotel,"Carrera 50 45, Guayaquil, La Candelaria, Medellín,",Medellín,Point Z,6.2459188,-75.5691164
+3174,Hotel Maracana,Hotel,"Carrera 52A 45 1-199, Guayaquil, La Candelaria, Me",Medellín,Point Z,-2.1891341,-79.8899031
+3175,Caruso,Hotel,"Carrera 53 49, La Candelaria, Medellín, Antioquia",Medellín,Point Z,6.2496955,-75.5706871
+3176,El Roble,Hotel,"Carrera 53 48, La Candelaria, Medellín, Antioquia",Medellín,Point Z,6.249248,-75.5711196
+3177,Metro,Hotel,"Calle 46 45, Colón, La Candelaria, Medellín, Antio",Medellín,Point Z,6.245291000000001,-75.5671176
+3178,Primavera,Hotel,"Calle 51 53, San Benito, La Candelaria, Medellín, ",Medellín,Point Z,6.2516245,-75.5702402
+3179,Acuarius,Hotel,"Carrera 54 52, San Benito, La Candelaria, Medellín",Medellín,Point Z,6.253128999999999,-75.5710046
+3180,Medellín Kapital,Hotel,"Carrera 56C 50, San Benito, La Candelaria, Medellí",Medellín,Point Z,6.2537062,-75.5743063
+3181,España,Hotel,"Calle 52 54, San Benito, La Candelaria, Medellín, ",Medellín,Point Z,6.2527232,-75.57092879999999
+3182,Antiguo,Hostel,"San Benito, La Candelaria, Medellín, Antioquia",Medellín,Point Z,6.2524393,-75.5727914
+3183,Manzanares,Hotel,"Carrera 54 50, San Benito, La Candelaria, Medellín",Medellín,Point Z,6.2514408,-75.5710355
+3184,Hotel Nutibara,Hotel,"Carrera 50 52, La Candelaria, Medellín, Antioquia",Medellín,Point Z,6.2509353,-75.5670304
+3185,Hotel Capiro,Hotel,"Carrera 53 50, La Candelaria, Medellín, Antioquia",Medellín,Point Z,6.2508022,-75.5701423
+3186,Waikiki Residencias,Hotel,"Carrera 51D con Calle 56 51D, Estación Villa, La C",Medellín,Point Z,6.255477600000001,-75.5675816
+3187,Hotel Serymar,Hotel,"Calle 54 57, San Benito, La Candelaria, Medellín, ",Medellín,Point Z,6.2558813,-75.5741547
+3188,Hotel Sport,Hotel,"Calle 55 52 1-149, Estación Villa, La Candelaria, ",Medellín,Point Z,6.2547402,-75.56809779999999
+3189,Hotel Andora,Hotel,"Calle 54 54, Estación Villa, La Candelaria, Medell",Medellín,Point Z,6.254584400000001,-75.5701978
+3190,Hotel Milano,Hotel,"Calle 54 54, Estación Villa, La Candelaria, Medell",Medellín,Point Z,6.254584400000001,-75.5701978
+3191,Hotel Abacoa,Hotel,"Calle 55 51D 1-99, Estación Villa, La Candelaria, ",Medellín,Point Z,6.254550399999999,-75.56745
+3192,Hotel Alaska,Hotel,"Calle 56 52, Estación Villa, La Candelaria, Medell",Medellín,Point Z,6.255488700000001,-75.5687441
+3193,Hotel Juanambu,Hotel,"Carrera 52 53, La Candelaria, Medellín, Antioquia",Medellín,Point Z,6.252898699999999,-75.5683461
+3194,Hotel Albert,Hotel,"Calle 54 51 con Calle Juananbu, La Candelaria, Med",Medellín,Point Z,No dirección,No dirección
+3195,Hotel El Encuentro,Hotel,"Carrera 54 53, Estación Villa, La Candelaria, Mede",Medellín,Point Z,6.2538852,-75.5702419
+3196,Hotel Lines,Hotel,"Carrera 52 55, Estación Villa, La Candelaria, Mede",Medellín,Point Z,6.255178,-75.5679208
+3197,Hotel La Mirada,Hotel,"Carrera 53 53 con Avenida Cundinamarca, La Candela",Medellín,Point Z,5.026002999999999,-74.0300122
+3198,Hotel Mageba,Hotel,"Calle 52 con Carrera 54 52, San Benito, La Candela",Medellín,Point Z,6.2512623,-75.5680082
+3199,Hotel Bachue,Hotel,"Avenida Juan del Corral con Perú, Estación Villa, ",Medellín,Point Z,6.2555656,-75.56915310000001
+3200,Hotel Exotico,Hotel,"Carrera 53 55, Estación Villa, La Candelaria, Mede",Medellín,Point Z,6.2554953,-75.5691645
+3201,Hotel de Oro,Hotel,"Calle 54 54, Estación Villa, La Candelaria, Medell",Medellín,Point Z,6.254584400000001,-75.5701978
+3202,Paraiso,Hotel,"Carrera 54 53, Estación Villa, La Candelaria, Mede",Medellín,Point Z,6.2538852,-75.5702419
+3203,Acapulco No 1,Hotel,"Calle 54 54, Estación Villa, La Candelaria, Medell",Medellín,Point Z,6.254584400000001,-75.5701978
+3204,Ritz,Hotel,"Calle 54 54, Estación Villa, La Candelaria, Medell",Medellín,Point Z,6.254584400000001,-75.5701978
+3205,Castillo,Hotel,"Calle 54 52, Estación Villa, La Candelaria, Medell",Medellín,Point Z,6.2544414,-75.5685707
+3206,Hotel Arbis,Hotel,"Calle 54 52, Estación Villa, La Candelaria, Medell",Medellín,Point Z,6.2544414,-75.5685707
+3207,Aparta Hotel Santelmo,Hotel,"Carrera 50A 53 1-99, La Candelaria, Medellín, Anti",Medellín,Point Z,6.2528767,-75.5672259
+3208,Camelot,Hotel,"Calle 55 52 2-148, Estación Villa, La Candelaria, ",Medellín,Point Z,6.2547402,-75.56809779999999
+3209,Hotel Fantasía,Hotel,"Carrera 52 53, La Candelaria, Medellín, Antioquia",Medellín,Point Z,6.252898699999999,-75.5683461
+3210,Hotel Ancara,Hotel,"Calle 51 53, San Benito, La Candelaria, Medellín, ",Medellín,Point Z,6.2516245,-75.5702402
+3211,Hotel Titanic,Hotel,"Carrera 52 55 con Calle 55 52, Estación Villa, La ",Medellín,Point Z,6.2550233,-75.5682228
+3212,Hotel Cando,Hotel,"Avenida Juan del Corral, Estación Villa, La Candel",Medellín,Point Z,6.2560911,-75.5668515
+3213,Residencias Bachue,Hostel,"Avenida Juan del Corral, Estación Villa, La Candel",Medellín,Point Z,6.2560911,-75.5668515
+3214,Residencias Fuente Mar,Hotel,"Avenida Juan del Corral, Estación Villa, La Candel",Medellín,Point Z,6.2560911,-75.5668515
+3215,Hotel El Rincón,Hotel,"Carrera 50A 53 2-98, La Candelaria, Medellín, Anti",Medellín,Point Z,6.2526882,-75.5671804
+3216,Hotel Deseos,Hotel,"Carrera 50A 53 2-98, La Candelaria, Medellín, Anti",Medellín,Point Z,6.2526882,-75.5671804
+3217,Osvel,Hotel,"La Candelaria, Medellín, Antioquia",Medellín,Point Z,6.246179100000001,-75.5747148
+3218,Hotel Mairuba,Hotel,"Calle 52 53, San Benito, La Candelaria, Medellín, ",Medellín,Point Z,6.252179,-75.5703242
+3219,D'Greiff,Hotel,"Calle 53 51 50-98, La Candelaria, Medellín, Antioq",Medellín,Point Z,6.252749199999999,-75.568123
+3220,Hotel Yacatan,Hotel,"Calle 56 52, Estación Villa, La Candelaria, Medell",Medellín,Point Z,6.255488700000001,-75.5687441
+3221,Hotel Gales,Hotel,"Calle 56 52, Estación Villa, La Candelaria, Medell",Medellín,Point Z,6.255488700000001,-75.5687441
+3222,Alaska,Hotel,"Calle 56 52, Estación Villa, La Candelaria, Medell",Medellín,Point Z,6.255488700000001,-75.5687441
+3223,Exótico,Hotel,"Calle 56 52, Estación Villa, La Candelaria, Medell",Medellín,Point Z,6.255488700000001,-75.5687441
+3224,Albert,Hotel,"Carrera 52 54 con Calle 54 52, Estación Villa, La ",Medellín,Point Z,6.2546331,-75.5682662
+3225,Hotel Brisas del Jardín,Hotel,"Calle 51 52, La Candelaria, Medellín, Antioquia",Medellín,Point Z,6.250970199999999,-75.56945979999999
+3226,Hotel Dinastia,Hotel,"Carrera 53 51, La Candelaria, Medellín, Antioquia",Medellín,Point Z,6.2515671,-75.5697216
+3227,El Encuentro,Hotel,"Calle 53 54 con Avenida de Greiff, Estación Villa,",Medellín,Point Z,6.2539804,-75.57090400000001
+3228,Donaires,Hotel,"Calle 53 54 con Avenida de Greiff, Estación Villa,",Medellín,Point Z,6.2539804,-75.57090400000001
+3229,Belmonte,Hotel,"Carrera 52 54, Estación Villa, La Candelaria, Mede",Medellín,Point Z,6.2546331,-75.5682662
+3230,Hotel Las Flores,Hotel,"Calle 54 52, Estación Villa, La Candelaria, Medell",Medellín,Point Z,6.2544414,-75.5685707
+3231,San Estaban Centro,Hotel,"Carrera 51 52 con Calle 52, La Candelaria, Medellí",Medellín,Point Z,6.251417,-75.5680893
+3232,Hotel Premier Plaza,Hotel,"La Candelaria, Medellín, Antioquia",Medellín,Point Z,6.246179100000001,-75.5747148
+3233,Bulevard Botero,Hotel,"Carrera 52 51, La Candelaria, Medellín, Antioquia",Medellín,Point Z,6.2513802,-75.5687998
+3234,Hotel Zona Rosa,Hotel,"Carrera 52 51, La Candelaria, Medellín, Antioquia",Medellín,Point Z,6.2513802,-75.5687998
+3235,Hotel Mageba,Hotel,"Calle 52 con Calle 52 53, San Benito, La Candelari",Medellín,Point Z,6.252179,-75.5703242
+3236,Hotel Nutibara,Hotel,"Calle 52A con Calle 52A 50, La Candelaria, Medellí",Medellín,Point Z,6.2519028,-75.56703519999999
+3237,La Manzana,Hotel,"Carrera 52A con Calle 65, Jesús Nazareno, La Cande",Medellín,Point Z,6.2629794,-75.5672658
+3238,Vientos del Este,Hotel,"Calle 49B 67B 2-98, Suramericana, Laureles-Estadio",Medellín,Point Z,6.2569126,-75.5840901
+3239,Troya,Hostel,"Calle 49B 68 2-148, Suramericana, Laureles-Estadio",Medellín,Point Z,6.257137699999999,-75.5845609
+3240,Med Estadio,Hotel,"Calle 49B 68, Suramericana, Laureles-Estadio, Mede",Medellín,Point Z,6.2575221,-75.5849748
+3241,Lotus,Hotel,"Calle 50 68 1-33, Suramericana, Laureles-Estadio, ",Medellín,Point Z,6.257613699999999,-75.5843756
+3242,3D Suite,Hotel,"Calle 50 69, Suramericana, Laureles-Estadio, Medel",Medellín,Point Z,6.2586873,-75.58561569999999
+3243,Collins,Hotel,"Calle 51 67B, Carlos E Restrepo, Laureles-Estadio,",Medellín,Point Z,6.2582907,-75.5841397
+3244,Plus Plaza,Hotel,"Calle 58 52 2-148, Jesús Nazareno, La Candelaria, ",Medellín,Point Z,6.2574254,-75.5681501
+3245,Alcalá,Hotel,"Calle 58 51D 2-148, Jesús Nazareno, La Candelaria,",Medellín,Point Z,6.2572857,-75.5667279
+3246,Natalia,Hotel,"La Paz 1-99, Estación Villa, La Candelaria, Medell",Medellín,Point Z,6.2555656,-75.56915310000001
+3247,Portón del Estadio,Hostel,"Calle 50 68 35-71, Suramericana, Laureles-Estadio,",Medellín,Point Z,6.257597,-75.5846607
+3248,Le Blanc,Hotel,"Calle 50 67, Suramericana, Laureles-Estadio, Medel",Medellín,Point Z,6.2572579,-75.58415389999999
+3249,Hotel Casa Bonita,Hotel,"Calle 51 67B 1-199, Carlos E Restrepo, Laureles-Es",Medellín,Point Z,6.2577624,-75.5832202
+3250,Hotel Los Sauces del Estadio,Hotel,"Carrera 69 49A 30, Suramericana, Laureles-Estadio,",Medellín,Point Z,6.2572313,-75.5854883
+3251,Apartahotel Montes,Hostel,"Calle 49B 67B 2-98, Suramericana, Laureles-Estadio",Medellín,Point Z,6.2569126,-75.5840901
+3252,Estadio Plaza,Hotel,"Calle 50 68 1-33, Suramericana, Laureles-Estadio, ",Medellín,Point Z,6.257613699999999,-75.5843756
+3253,Hotel Villas del Estadio,Hotel,"Carrera 68 49B 4, Suramericana, Laureles-Estadio, ",Medellín,Point Z,6.257171,-75.5843522
+3254,Hostal Brisas del Estadio,Hotel,"Calle 51 67B 1-199, Carlos E Restrepo, Laureles-Es",Medellín,Point Z,6.2577624,-75.5832202
+3255,Hotel La Mansión,Hostel,"Calle 60 52 2-148, Jesús Nazareno, La Candelaria, ",Medellín,Point Z,6.2590204,-75.5673353
+3256,Acapulco,Hotel,"Calle 60 52 2-148, Jesús Nazareno, La Candelaria, ",Medellín,Point Z,6.2590204,-75.5673353
+3257,Colombia Real,Hotel,"Calle 50 67, Suramericana, Laureles-Estadio, Medel",Medellín,Point Z,6.2572579,-75.58415389999999
+3258,D'Lusso,Hotel,"Calle 50 67 con Calle 50 68, Suramericana, Laurele",Medellín,Point Z,6.2577335,-75.584913
+3259,Balcones del Estadio,Hotel,"Calle 49A con Carrera 68, Suramericana, Laureles-E",Medellín,Point Z,6.2566435,-75.5847988
+3260,Hotel San Felipe,Hotel,"Calle 60 52 2-148, Jesús Nazareno, La Candelaria, ",Medellín,Point Z,6.2590204,-75.5673353
+3261,Apartahotel Montes,Hotel,"Calle 49B 67B 2-98, Suramericana, Laureles-Estadio",Medellín,Point Z,6.2569126,-75.5840901
+3262,Thematic Suites,Hotel,"Calle 50 67, Suramericana, Laureles-Estadio, Medel",Medellín,Point Z,6.2572579,-75.58415389999999
+3263,Obelisco,Hotel,"Calle 50 67 con Avenida Colombia, Suramericana, La",Medellín,Point Z,6.2572579,-75.58415389999999
+3264,Hotel 47 Medellin Street,Hotel,"Calle 47 45, La Candelaria, Medellín, Antioquia",Medellín,Point Z,6.2457113,-75.5660284
+3265,Internacional,Hotel,"Avenida La Playa 2-98, La Candelaria, Medellín, An",Medellín,Point Z,6.248148599999999,-75.5621927
+3266,Dali,Hotel,"Carrera 45 con Calle 50 43, La Candelaria, Medellí",Medellín,Point Z,6.2474056,-75.56271389999999
+3267,Hotel Plaza Caracas,Hotel,"Avenida El Palo 1-99, La Candelaria, Medellín, Ant",Medellín,Point Z,6.2525105,-75.5610238
+3268,Hotel Casa Linda,Hotel,"Avenida El Palo 1-99, La Candelaria, Medellín, Ant",Medellín,Point Z,6.2525105,-75.5610238
+3269,Hotel Balcon de Ayacucho,Hotel,"Calle 49 45, La Candelaria, Medellín, Antioquia",Medellín,Point Z,6.2473101,-75.5651443
+3270,Madrid,Hotel,"Carrera 43 50, Boston, La Candelaria, Medellín, An",Medellín,Point Z,6.247244999999999,-75.56282070000002
+3271,Hotel Sucre Real,Hotel,"Carrera 47 48, La Candelaria, Medellín, Antioquia",Medellín,Point Z,6.2472154,-75.5667414
+3272,Hotel París,Hotel,"Avenida El Palo 1-99, La Candelaria, Medellín, Ant",Medellín,Point Z,6.2525105,-75.5610238
+3273,Punto Clave,Hotel,"Carrera 43 50 con Calle 50 43, La Candelaria, Mede",Medellín,Point Z,6.247244999999999,-75.56282070000002
+3274,Hotel Paranoha,Hotel,"Calle 47 45, La Candelaria, Medellín, Antioquia",Medellín,Point Z,6.2457113,-75.5660284
+3275,Hotel El Periodista,Hotel,"Carrera 43 53 con Avenida Girardot, La Candelaria,",Medellín,Point Z,6.2503771,-75.5610813
+3276,Metro Hotel,Hotel,"Calle 47 45, La Candelaria, Medellín, Antioquia",Medellín,Point Z,6.2457113,-75.5660284
+3277,Hotel Panorama,Hotel,"Avenida El Palo 1-99, La Candelaria, Medellín, Ant",Medellín,Point Z,6.2525105,-75.5610238
+3278,Hotel Plaza El Santuario,Hotel,"Carrera 49 50, La Candelaria, Medellín, Antioquia",Medellín,Point Z,6.2493101,-75.5669018
+3279,Country Medellín,Hotel,"Carrera 47 52, La Candelaria, Medellín, Antioquia",Medellín,Point Z,6.2507404,-75.5650258
+3280,Hotel Plazuelas de San Ignacio,Hotel,"Avenida El Palo 1-99, La Candelaria, Medellín, Ant",Medellín,Point Z,6.2525105,-75.5610238
+3281,Hotel Linton,Hotel,"Avenida El Palo 2-98, La Candelaria, Medellín, Ant",Medellín,Point Z,6.2525105,-75.5610238
+3282,El Periodista,Hotel,"Carrera 43 53, La Candelaria, Medellín, Antioquia",Medellín,Point Z,6.249450299999999,-75.5621604
+3283,Hostal El Palo,Hotel,"Carrera 44 con Carrera 44 49, La Candelaria, Medel",Medellín,Point Z,6.246179100000001,-75.5747148
+3284,Hotel Plaza Caracas,Hotel,"Calle 54 45, Villa Nueva, La Candelaria, Medellín,",Medellín,Point Z,6.2506547,-75.563036
+3285,Hotel Verde Mar,Hotel,"Calle 47 45, La Candelaria, Medellín, Antioquia",Medellín,Point Z,6.2457113,-75.5660284
+3286,Hotel Residencias Orquídea,Hotel,"Calle 47 45, La Candelaria, Medellín, Antioquia",Medellín,Point Z,6.2457113,-75.5660284
+3287,Hotel Dk Che,Hotel,"Calle 47 45, La Candelaria, Medellín, Antioquia",Medellín,Point Z,6.2457113,-75.5660284
+3288,Hotel Latino,Hotel,"Calle 49A 46, La Candelaria, Medellín, Antioquia",Medellín,Point Z,6.247450799999999,-75.5657653
+3289,Apartahotel El Palo,Hotel,"Avenida El Palo 2-98, La Candelaria, Medellín, Ant",Medellín,Point Z,6.2525105,-75.5610238
+3290,Exito Real,Hotel,"Carrera 47 48, La Candelaria, Medellín, Antioquia",Medellín,Point Z,6.2472154,-75.5667414
+3291,Oceano,Hotel,"Carrera 49 50, La Candelaria, Medellín, Antioquia",Medellín,Point Z,6.2493101,-75.5669018
+3292,Hotel Plaza Caracas,Hotel,"Calle 54 45, Villa Nueva, La Candelaria, Medellín,",Medellín,Point Z,6.2506547,-75.563036
+3293,Hotel Atlantis,Hotel,"Calle 49 45, La Candelaria, Medellín, Antioquia",Medellín,Point Z,6.2473101,-75.5651443
+3294,Hotel Momentos Plaza,Hotel,"Calle 49 43, La Candelaria, Medellín, Antioquia",Medellín,Point Z,6.246487,-75.5635087
+3295,Amatista,Hotel,"Calle 57 46, Villa Nueva, La Candelaria, Medellín,",Medellín,Point Z,6.2558254,-75.5657432
+3296,Star Suites,Hotel,"Calle 57 46 1-99, Villa Nueva, La Candelaria, Mede",Medellín,Point Z,6.2534268,-75.5624045
+3297,Nuevo Milenio,Hotel,"Carrera 48 58 con Ecuador, Prado, La Candelaria, M",Medellín,Point Z,6.2587176,-75.5604977
+3298,Gran Hotel,Hotel,"Calle 54 45, La Candelaria, Medellín, Antioquia",Medellín,Point Z,6.2506547,-75.563036
+3299,Hotel Berlin,Hotel,"Calle 55 50 1-99, Villa Nueva, La Candelaria, Mede",Medellín,Point Z,6.2510371,-75.5614085
+3300,Hotel Las Rampas,Hotel,"Carrera 50 56, Villa Nueva, La Candelaria, Medellí",Medellín,Point Z,6.2544577,-75.56523039999999
+3301,Hotel Miraflores,Hotel,"Calle 56 50 2-186, Villa Nueva, La Candelaria, Med",Medellín,Point Z,6.254334399999999,-75.565411
+3302,Hotel Versalles,Hotel,"Calle 54 50, La Candelaria, Medellín, Antioquia",Medellín,Point Z,6.253320899999999,-75.5674164
+3303,Hotel Eupacla,Hotel,"Carrera 50 53, La Candelaria, Medellín, Antioquia",Medellín,Point Z,6.2530202,-75.5664251
+3304,Hotel Fiore,Hotel,"Calle 55 46 2-98, Villa Nueva, La Candelaria, Mede",Medellín,Point Z,6.252028699999999,-75.5631983
+3305,Hotel La Mirada,Hotel,"Calle 54 50, Villa Nueva, La Candelaria, Medellín,",Medellín,Point Z,6.253320899999999,-75.5674164
+3306,Hotel Capitolio,Hotel,"Calle 57A 48, Villa Nueva, La Candelaria, Medellín",Medellín,Point Z,6.2548259,-75.56323359999999
+3307,Hotel Swid del Parque,Hotel,"Carrera 49 53 con Calle 54 49, La Candelaria, Mede",Medellín,Point Z,6.252207,-75.565181
+3308,Hotel Brisas de San Francisco,Hotel,"Calle 56 41 2-248, Boston, La Candelaria, Medellín",Medellín,Point Z,6.2507775,-75.5593055
+3309,Hotel Premiun Plaza,Hotel,"Carrera 47 53, La Candelaria, Medellín, Antioquia",Medellín,Point Z,6.251335999999999,-75.5647317
+3310,Hotel La Bella Villa,Hotel,"Calle 53 50, La Candelaria, Medellín, Antioquia",Medellín,Point Z,6.2493823,-75.56241299999999
+3311,Cristal,Hotel,"Carrera 49 57, Villa Nueva, La Candelaria, Medellí",Medellín,Point Z,6.253526,-75.564666
+3312,Lugano,Hotel,"Calle 56 45, Villa Nueva, La Candelaria, Medellín,",Medellín,Point Z,6.2522452,-75.56175689999999
+3313,Hostal Odeon,Hostel,"Calle 54 49, La Candelaria, Medellín, Antioquia",Medellín,Point Z,6.2522973,-75.56517699999999
+3314,Maracaibo Real,Hotel,"Calle 53 49, La Candelaria, Medellín, Antioquia",Medellín,Point Z,6.2519997,-75.5659542
+3315,Junimar,Hotel,"Calle 53 49, La Candelaria, Medellín, Antioquia",Medellín,Point Z,6.2519997,-75.5659542
+3316,Normandía,Hotel,"Calle 53 49, La Candelaria, Medellín, Antioquia",Medellín,Point Z,6.2519997,-75.5659542
+3317,Brisas del Parque,Hotel,"Calle 55 50 1-99, Villa Nueva, La Candelaria, Mede",Medellín,Point Z,6.2510371,-75.5614085
+3318,Calipso Verdemar,Hotel,"Carrera 50 56 con Calle 56 50, Villa Nueva, La Can",Medellín,Point Z,14.5305465,-90.59584989999999
+3319,Hotel Harby,Hotel,"Calle 54 50, Villa Nueva, La Candelaria, Medellín,",Medellín,Point Z,6.253320899999999,-75.5674164
+3320,Hotel y Residencias Kabiut,Hotel,"Calle 54 50, Villa Nueva, La Candelaria, Medellín,",Medellín,Point Z,6.253320899999999,-75.5674164
+3321,Comfenalco,Hotel,"Calle 54 50, La Candelaria, Medellín, Antioquia",Medellín,Point Z,6.253320899999999,-75.5674164
+3322,Hotel La Paz,Hotel,"La Paz 1-99, Villa Nueva, La Candelaria, Medellín,",Medellín,Point Z,6.2528213,-75.5633316
+3323,Hotel Lafayette,Hotel,"Calle 56 50 2-186, Villa Nueva, La Candelaria, Med",Medellín,Point Z,6.254334399999999,-75.565411
+3324,Cirus,Hotel,"Calle 56 50 2-186, Villa Nueva, La Candelaria, Med",Medellín,Point Z,6.254334399999999,-75.565411
+3325,Hotel Majestic,Hotel,"Carrera 50 55, Villa Nueva, La Candelaria, Medellí",Medellín,Point Z,6.253934500000001,-75.5655788
+3326,Hospedaje La 55,Hotel,"Calle 55 50 2-98, Villa Nueva, La Candelaria, Mede",Medellín,Point Z,6.2510371,-75.5614085
+3327,Hotel Boutique de Bolivia,Hotel,"Calle 56 41 2-248, Boston, La Candelaria, Medellín",Medellín,Point Z,6.2507775,-75.5593055
+3328,Botero Plaza,Hotel,"Carrera 50A con Calle 54 50, La Candelaria, Medell",Medellín,Point Z,6.253320899999999,-75.5674164
+3329,Ambassador,Hotel,"Carrera 50 54, Villa Nueva, La Candelaria, Medellí",Medellín,Point Z,6.2535516,-75.56581410000001
+3330,Capitolio,Hotel,"Calle 57A 48, Villa Nueva, La Candelaria, Medellín",Medellín,Point Z,6.2548259,-75.56323359999999
+3331,Gran Hotel,Hotel,"Calle 54 45, La Candelaria, Medellín, Antioquia",Medellín,Point Z,6.2506547,-75.563036
+3332,61 Prado Guesthouse,Hotel,"Carrera 50C 61, Prado, La Candelaria, Medellín, An",Medellín,Point Z,6.259624,-75.56392420000002
+3333,Moto Sleep,Hotel,"Carrera 51 60 55, Jesús Nazareno, La Candelaria, M",Medellín,Point Z,6.259176,-75.56543099999999
+3334,Hotel Roma,Hotel,"Carrera 50C con Carrera 50C 60, Prado, La Candelar",Medellín,Point Z,6.2818878,-75.5597469
+3335,Hotel Z,Hotel,"Avenida Juan del Corral 1-99, Jesús Nazareno, La C",Medellín,Point Z,6.255405499999999,-75.567162
+3336,Hotel Oviedo,Hotel,"Avenida Juan del Corral, Jesús Nazareno, La Candel",Medellín,Point Z,No dirección,No dirección
+3337,Rimar,Hotel,"Calle 60 51D 2-98, Jesús Nazareno, La Candelaria, ",Medellín,Point Z,6.2588696,-75.56645429999999
+3338,Hotel Silencio Caribe Medellín,Hotel,"Carrera 64B 75A 1-99, Caribe, Castilla, Medellín, ",Medellín,Point Z,6.274134099999999,-75.57183510000002
+3339,Jardin del Amor,Hotel,"Carrera 51 73, San Pedro, Aranjuez, Medellín, Anti",Medellín,Point Z,6.268501199999999,-75.56180069999999
+3340,Hotel El Punto,Hotel,"Carrera 64C 72, Caribe, Castilla, Medellín, Antioq",Medellín,Point Z,6.272184300000001,-75.57339309999999
+3341,Hotel La Gruta de Hierro,Hotel,"Calle 71 51, Sevilla, Aranjuez, Medellín, Antioqui",Medellín,Point Z,6.2675994,-75.56331399999999
+3342,Hotel Caribe Plaza,Hotel,"Carrera 64C 74, Caribe, Castilla, Medellín, Antioq",Medellín,Point Z,6.2727876,-75.5730828
+3343,Hotel El Cortijo,Hotel,"Calle 74 64B 2-148, Caribe, Castilla, Medellín, An",Medellín,Point Z,6.2725765,-75.5731618
+3344,El Carretero,Hotel,"Calle 75A 64C 2-78, Caribe, Castilla, Medellín, An",Medellín,Point Z,6.2739809,-75.5731313
+3345,Hotel El Castillo,Hotel,"Carrera 50A con Calle 85, Brasilia, Aranjuez, Mede",Medellín,Point Z,6.277988199999999,-75.558752
+3348,Hotel El Playon,Hotel,"Carrera 52 120 100-148, La Frontera, Santa Cruz, M",Medellín,Point Z,6.3063613,-75.5555439
