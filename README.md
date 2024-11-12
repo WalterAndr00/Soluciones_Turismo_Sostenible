@@ -9,9 +9,9 @@ integrando estaciones de bicicletas y ciclorutas como opciones de movilidad sost
 del rio Medellín, esto mediante analisis de proximidad, diagnostico.
 
 Datos Utilizados:
-Atractivos turísticos (Ecoparques, zonas verdes)
-Red ciclista y ciclorrutas
-Ubicación de hoteles y estaciones de bicicletas
+Atractivos turísticos(ecoparques, zonas verdes),
+red ciclista y ciclorrutas
+ubicación de hoteles y estaciones de bicicletas
 
 Metodología:
 
